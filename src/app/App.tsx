@@ -12,6 +12,7 @@ function App(): JSX.Element {
         <input type="text" placeholder="Hi, call me..." />
         <input type="text" placeholder="...and my lastname" />
         <input type="submit" />
+</div>
       </form>
     </main>
   );
